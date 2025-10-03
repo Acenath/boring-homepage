@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: sans-serif;
+    justify-content: center;
     margin: 0;
 }
 
@@ -95,7 +96,7 @@ li {
     width: 400px;
     height: 200px;
     background-color: #E5E7EB;
-    color: #F9FAF8;
+    color: gray;
     display: flex;
     justify-content: center;
     align-items: center;
